@@ -1,2 +1,2 @@
 #!/binlbash
-echo  $(($BEST="School"))
+export BEST="School"
